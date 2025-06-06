@@ -5,6 +5,8 @@
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NaibvhRw110?si=PKAuVs_bVPT4yBeW&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## ภาษาไทย 🇹🇭
 
 ยินดีต้อนรับสู่ **SmartGrade-Numpy**! 👋 โปรเจกต์นี้คือระบบจัดการและวิเคราะห์คะแนนนักเรียนที่ใช้ไลบรารี **NumPy** อันทรงพลังของ Python 🐍 เพื่อจัดการข้อมูลคะแนนในรูปแบบ Array ทำให้การคำนวณและการวิเคราะห์มีประสิทธิภาพ โค้ดนี้สามารถ:
